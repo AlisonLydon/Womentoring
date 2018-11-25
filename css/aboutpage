@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>About Womentoring</title>
+<link rel="stylesheet" type="text/css" href="css/style.css">
+  </head>
+    <body>
+          <p>Womentoring was founded in 2018 by Rosalie and Alison, who saw the need for more active support opportunities for women working in male dominated industries.</p>
+            <p>Womentoring helps young women who are at the beginning of their careers by providing them with female role models who are further along in their careers in the same industries.</p>
+              <p>We believe that we need to go beyond merely eliminating sexist behaviours in male dominated sectors to accelerating women's careers by providing them with the opportunity for female role models to personally and professionally mentor them.</p> 
+
+<form action="action_page.php" style="border:1px solid #ccc">
+  <div class="container">
+    <h1>Sign Up</h1>
+    <p>Sign up if you want to mentor, or be mentored, through Womentoring.</p>
+    <hr>
+
+    <label for="email"><b>Email</b></label>
+    <input type="text" placeholder="Enter Email" name="email" required>
+
+    <label for="psw"><b>Password</b></label>
+    <input type="password" placeholder="Enter Password" name="psw" required>
+
+    <label for="psw-repeat"><b>Repeat Password</b></label>
+    <input type="password" placeholder="Repeat Password" name="psw-repeat" required>
+
+    <label>
+      <input type="checkbox" checked="checked" name="remember" style="margin-bottom:15px"> Remember me
+    </label>
+
+    <div class="clearfix">
+      <button type="button" class="cancelbtn">Cancel</button>
+      <button type="submit" class="signupbtn">Sign Up</button>
+    </div>
+  </div>
+</form>
