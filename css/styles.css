@@ -1,28 +1,22 @@
-<<<<<<< HEAD
-html {background-color: #265a88;}
-h1 { color: #fb9fa4; font-family: 'Open Sans Condensed', sans-serif; font-size: 110px; font-weight: 700; line-height: 64px; margin: 0 0 0; padding: 30px 40px; text-align: center; text-transform: uppercase; }
-=======
+
 html {background-color: #efedef;}
-<<<<<<< HEAD
-h1 { color: #fb9fa4; font-family: 'Open Sans Condensed', sans-serif; font-size: 120x; font-weight: 700; line-height: 64px; margin: 0 0 0; padding: 20px 30px; text-align: center; text-transform: uppercase; }
->>>>>>> 87e7000c38ad693713d2b73ccede27760cb26736
-=======
 h1 { color: #fb9fa4;
   font-family: 'Open Sans Condensed',
-  sans-serif; font-size: 120x;
+  sans-serif;
+  font-size: 120px;
   font-weight: 700;
-  line-height: 64px;
+  line-height: 60px;
   margin: 0 0 0;
-  padding: 20px 30px;
+  padding: 50px 50px;
   text-align: center;
   text-transform: uppercase; }
-p { color: #FFFFFF;
+p { color: #fb9fa4;
   font-family: 'Open Sans Condensed',
-  sans-serif; font-size: 40x;
-  font-weight: 700;
-  line-height: 64px;
+  sans-serif;
+  font-size: 30px;
+  font-weight: 900;
+  line-height: 45px;
   margin: 0 0 0;
-  padding: 20px 30px;
+  padding: 48px 48px;
   text-align: center;
   text-transform: uppercase; }
->>>>>>> 0a0b89b7ff11030f1184d57d4d1b0bebb60b487d
