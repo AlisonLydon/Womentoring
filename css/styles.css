@@ -69,6 +69,13 @@ p { color: #fb9fa4;
     margin-right: auto;
     width: 50%;
 }
+
+
+.stretch {
+    max-width: 100%;
+    height: auto;
+}
+
 =======
   ul {color: #A9A9A9;
     font-family: 'Open Sans Condensed',
@@ -85,6 +92,8 @@ p { color: #fb9fa4;
         border-radius: 50%;
       padding: 75px;
     }
+
+
 
     p1 { color: #766D6D;
       font-family: 'Open Sans Condensed',
@@ -130,4 +139,3 @@ p { color: #fb9fa4;
               padding: 50px 50px;
               text-align: center;
               text-transform: uppercase; }
->>>>>>> ef0e8fa4080d3fd9dc2c8883999cb3df80d4bc29
