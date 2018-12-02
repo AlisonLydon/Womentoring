@@ -10,6 +10,7 @@ h1 { color: #fb9fa4;
   padding: 50px 50px;
   text-align: center;
   text-transform: uppercase; }
+
 p { color: #fb9fa4;
   font-family: 'Open Sans Condensed',
   sans-serif;
@@ -18,15 +19,50 @@ p { color: #fb9fa4;
   line-height: 45px;
   margin: 0 0 0;
   padding: 48px 48px;
+  padding-bottom: 40px;
   text-align: center;
   text-transform: uppercase; }
-  ul {color: #A9A9A9;
-    font-family: 'Open Sans Condensed',
-    sans-serif;
-    font-size: 30px;
-    font-weight: 900;
-    line-height: 45px;
-    margin: 0 0 0;
-    padding: 48px 48px;
-    text-align: left;
-    text-transform: uppercase; }
+
+  * {
+    margin: 0;
+    padding: 0;
+  }
+
+  nav {
+    margin: 50px;
+  }
+
+  ul {
+    overflow: auto;
+    list-style-type: none;
+  }
+
+  li {
+    height: 25px;
+    float: left;
+    margin-right: 0px;
+    border-right: 1px solid #aaa;
+    padding: 0 70px;
+  }
+
+  li:last-child {
+    border-right: none;
+  }
+
+  li a {
+    text-decoration: none;
+    color: #ccc;
+    font: 25px/1 Helvetica, Verdana, sans-serif;
+    text-transform: uppercase;
+  }
+
+  li a:hover {
+    color: #666;
+  }
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
