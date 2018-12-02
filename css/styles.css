@@ -18,8 +18,10 @@ p { color: #fb9fa4;
   font-weight: 900;
   line-height: 45px;
   margin: 0 0 0;
-  padding: 48px 48px;
+  padding: 60px 60px;
   padding-bottom: 40px;
+  padding-left: 100px;
+  padding-right: 100px;
   text-align: center;
   text-transform: uppercase; }
 <<<<<<< HEAD
